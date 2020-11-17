@@ -12,6 +12,6 @@ I like to trip, watch series, movies and animes and also write clean code :)
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Simas-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucassimas/)
-[![StackOverflow Badge](https://img.shields.io/badge/Lucas%20Simas-follow%20on%20StackOverflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/2886557/lucas-simas)
+[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Simas-On%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucassimas/)
+[![StackOverflow Badge](https://img.shields.io/badge/Lucas%20Simas-On%20StackOverflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/2886557/lucas-simas)
 [![My Website Badge](https://img.shields.io/badge/lucassimas.com-see%20my%20website-blue?style=for-the-badge&logo=minutemailer)](https://www.lucassimas.com)
