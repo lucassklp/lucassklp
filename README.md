@@ -1,9 +1,6 @@
 ## Hello there 👋
 
-I am Lucas Simas 👨
-
-Software engineer and Full Stack Web Developer 💻
-
+I am a software engineer and Full Stack Web Developer 💻
 
 💡 I am a person who loves new challenges and I am always willing to learn new things.
 
