@@ -15,8 +15,7 @@ and also write clean code :)
     🎓 Master's degree at ISCTE - University Institute of Lisbon
 </p>
 
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassklp.visitor-badge) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassklp.visitor-badge)
 
 ## 👨‍💻Technologies
 <p>
