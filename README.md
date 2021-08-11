@@ -8,7 +8,12 @@ I like to travel🌊,
 watch series, movies, animes 📺 
 and also write clean code :) 
 
-<p align='left'>📍Living: Lisbon, Portugal;<br/> 👨‍💻 Working at Codacy, Lisbon;<br/> 👨‍🎓 College: UNICAP, Pernambuco.</p>
+<p align='left'>
+    📍Living: Lisbon, Portugal;<br />
+    👨‍💻 Working at Codacy, Lisbon;<br /> 
+    👨‍🎓 Bachelor's degree at Catholic University of Pernambuco;<br />
+    🎓 Master's degree at ISCTE - University Institute of Lisbon
+</p>
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassklp.visitor-badge) -->
