@@ -12,7 +12,7 @@ and also write clean code :)
     📍Living: Lisbon, Portugal;<br />
     👨‍💻 Working at Codacy, Lisbon;<br /> 
     👨‍🎓 Bachelor's degree at Catholic University of Pernambuco;<br />
-    🎓 Master's degree at ISCTE - University Institute of Lisbon
+    🎓 Master's degree student at ISCTE - University Institute of Lisbon
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassklp.visitor-badge)
