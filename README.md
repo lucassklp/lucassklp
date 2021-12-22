@@ -1,12 +1,6 @@
 ## Hello there 👋
 
-I am a Software Engineer and Full Stack Web Developer @ Codacy 💻
-
-💡 I am a person who loves new challenges and I am always willing to learn new things.
-
-I like to travel🌊,
-watch series, movies, animes 📺 
-and also write clean code :) 
+I am a Software Engineer and Full Stack Web Developer who loves new challenges and I am always willing to learn new things.
 
 <p align='left'>
     📍Living on Lisbon, Portugal;<br />
