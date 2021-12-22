@@ -9,7 +9,7 @@ watch series, movies, animes 📺
 and also write clean code :) 
 
 <p align='left'>
-    📍Living: Lisbon, Portugal;<br />
+    📍Living on Lisbon, Portugal;<br />
     👨‍💻 Working at Codacy, Lisbon;<br /> 
     👨‍🎓 Bachelor's degree at Catholic University of Pernambuco;<br />
     🎓 Master's degree student at ISCTE - University Institute of Lisbon
