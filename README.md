@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a software engineer and Full Stack Web Developer 💻
+I am a Software Engineer and Full Stack Web Developer @ Codacy 💻
 
 💡 I am a person who loves new challenges and I am always willing to learn new things.
 
@@ -14,8 +14,6 @@ and also write clean code :)
     👨‍🎓 Bachelor's degree at Catholic University of Pernambuco;<br />
     🎓 Master's degree student at ISCTE - University Institute of Lisbon
 </p>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassklp.visitor-badge)
 
 ## 👨‍💻Technologies
 <p>
@@ -40,9 +38,6 @@ and also write clean code :)
 </p>
 
 
-
-
-
 ## :octocat: Github
 <p align="center">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=lucassklp&count_private=true&show_icons=true&theme=onedark" alt="My GitHub stats"/>
@@ -54,8 +49,6 @@ and also write clean code :)
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=lucassklp&theme=onedark&margin-w=7&hide_border=true" alt="lucassklp points"/>
 </p>
-
-
 
 ## 📫 How to contact me
 
