@@ -4,7 +4,7 @@ I am a Software Engineer and Full Stack Web Developer who loves new challenges a
 
 <p align='left'>
     📍Living on Lisbon, Portugal;<br />
-    👨‍💻 Working at Codacy, Lisbon;<br /> 
+    👨‍💻 Working at Devoteam, Lisbon;<br /> 
     👨‍🎓 Bachelor's degree at Catholic University of Pernambuco;<br />
     🎓 Master's degree student at ISCTE - University Institute of Lisbon
 </p>
